@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="username">Username</string>
+    <string name="title_text">Users database SQLite</string>
+    <string name="email">Email</string>
+    <string name="delete">Delete</string>
+</resources>
